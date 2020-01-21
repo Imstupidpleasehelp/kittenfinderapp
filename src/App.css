@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: darkslateblue;
+  color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-color: orangered;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  background-color: darkslategrey;
+  color: white;
+}
+footer {
+  margin: 5px;
+}
+.title {
+  font-size: 65px;
+  font-family: 'Ma Shan Zheng';
+}
+.subheading {
+  font-size: 20px;
+}
